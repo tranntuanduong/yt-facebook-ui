@@ -3,5 +3,9 @@ import styled from "styled-components";
 
 export const StyledMainLayout = styled.div`
   background-color: ${colors.mainBgColor};
-  min-height: 1000px;
 `;
+
+export const StyledApp = styled.div`
+  display: flex;
+  justify-content: space-between;
+`

@@ -35,3 +35,8 @@ export const StyledAvatar = styled.img`
   object-fit: cover;
   cursor: pointer;
 `;
+
+export const StyledDivider = styled.div`
+  border: 0.5px solid ${colors.borderColor};
+  margin: 8px 0;
+`;

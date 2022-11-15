@@ -20,4 +20,6 @@ export const colors = {
   btnHoverColor: "#4e4f51",
   whiteColor: "#fff",
   redColor: "red",
+  hoverColor: "#4e4f517a",
+  primaryColor: "#2473e1"
 };
